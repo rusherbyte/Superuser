@@ -78,5 +78,3 @@ then
       touch /system/etc/.installed_su_daemon
   fi
 fi
-
-umount /system
